@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Sixtyfour-Regular';
+    src: url('/fonts/Sixtyfour-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+* {
+    font-family: 'Sixtyfour-Regular';
+    font-size: 20px;
+}
